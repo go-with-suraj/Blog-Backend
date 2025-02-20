@@ -10,6 +10,7 @@ import logger from "./utils/logger.js";
 import mongoose from "mongoose";
 import loginRouter from "./controllers/login.js";
 
+
 mongoose.set('strictQuery', false)
 
 
